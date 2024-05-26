@@ -6,8 +6,8 @@
 
 **Evaluation of NLP Systems**
 
-[Computational Linguistics](https://www.cl.uni-heidelberg.de/courses/),  
-Instructors: [Julius Steen, M.Sc.](https://www.cl.uni-heidelberg.de/~steen/)
+ [Computational Linguistics](https://www.cl.uni-heidelberg.de/courses/),  
+ Instructors: [Julius Steen, M.Sc.](https://www.cl.uni-heidelberg.de/~steen/)
 
 **This public repository is for CV reference.**
 
