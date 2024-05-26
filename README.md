@@ -11,6 +11,11 @@
 - [Computational Linguistics](https://www.cl.uni-heidelberg.de/courses/),  
 - Instructors: [Julius Steen, M.Sc.](https://www.cl.uni-heidelberg.de/~steen/)
 
+**NLP in Industry: challenges and best practices**
+
+- [Computational Linguistics](https://www.cl.uni-heidelberg.de/courses/),  
+- Instructors: [Daniel Dahlmeier](https://www.cl.uni-heidelberg.de/~dahlmeier/)
+
 
 # Group members
 | First Name, Last Name| email |
