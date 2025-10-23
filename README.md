@@ -30,6 +30,12 @@
 - [Computational Linguistics](https://www.cl.uni-heidelberg.de/courses/)
 - Instructors: [Daniel Dahlmeier](https://www.cl.uni-heidelberg.de/~dahlmeier/)
 
+### **[Optimization in Machine Learning and Computer Vision](https://hci.iwr.uni-heidelberg.de/content/optml-seminar-SoSe23)**
+
+- Final_Report__Optimization_ML_and_CV
+- [Heidelberg Collaboratory for Image Processing (HCI)](https://hci.iwr.uni-heidelberg.de/)
+- Instructors: [Dr. Bogdan Savchynskyy](https://hci.iwr.uni-heidelberg.de/vislearn/people/bogdan/)
+
 
 # Group members
 | First Name, Last Name| email |
