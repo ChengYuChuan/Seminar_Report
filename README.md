@@ -6,7 +6,8 @@
 [University of Heidelberg](https://www.uni-heidelberg.de/en)
 
 ### **[Deep Learning in Medical Image Analysis](https://www.dkfz.de/en/imsy/deep-learning-in-medical-image-analysis)**
-
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Deutsches_Krebsforschungszentrum_Logo.svg" align="right" width="400px"/>
+ 
 - Deep_Learning_Medical_Image_Analysis
 - [DKFZ-Intelligent Medical Systems](https://www.dkfz.de/en/imsy)
 - Instructors: [Prof. Dr. Lena Maier-Hein](https://www.dkfz.de/en/employees/lena-maier-hein)
