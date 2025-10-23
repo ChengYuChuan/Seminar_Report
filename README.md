@@ -5,6 +5,12 @@
 
 [University of Heidelberg](https://www.uni-heidelberg.de/en)  
 
+**Reproducible Machine Learning**
+
+- RML_Term_paper
+- [Computational Linguistics](https://www.cl.uni-heidelberg.de/courses/ss24/reproducible_machine_learning/),  
+- Instructors: [Prof. Dr. Stefan Riezler](https://www.cl.uni-heidelberg.de/statnlpgroup/members/riezler/)
+
 
 **Evaluation of NLP Systems**
 
